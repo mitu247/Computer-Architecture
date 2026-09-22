@@ -1,0 +1,40 @@
+# === IDE & Editor ===
+.vs/
+.vscode/
+*.suo
+*.user
+*.atsuo
+*.workspace.xml
+
+# === Build Artifacts ===
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.hex
+*.eep
+*.lss
+*.map
+*.srec
+makedep.mk
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Java ===
+*.class
+
+# === Installers & Large Binaries ===
+*.exe
+
+# === Archives (keep extracted content only) ===
+*.zip
+
+# === Temporary ===
+*.tmp
+*.log
+*.bak
+*~

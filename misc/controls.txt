@@ -1,0 +1,25 @@
+OFPJLHKGBDCMAEIN
+
+Code -- OpCode -- Operation
+
+O	-> 0		-> bneq
+F	-> 1		-> andi
+P	-> 2		-> j
+J	-> 3		-> srl
+L	-> 4		-> lw
+H	-> 5		-> ori
+K	-> 6		-> nor
+G	-> 7		-> or
+B	-> 8		-> addi
+D	-> 9		-> subi
+C	-> 10		-> sub
+M	-> 11		-> sw
+A	-> 12 	-> add
+E	-> 13		-> and
+I	-> 14		-> sll
+N	-> 15		-> beq
+
+hex value of controls--
+
+011 502 008 506 780 503 904 903
+500 501 901 440 900 902 505 021
